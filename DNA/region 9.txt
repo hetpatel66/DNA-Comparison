@@ -1,0 +1,445 @@
+﻿CLUSTAL format alignment by MAFFT FFT-NS-i (v7.429)
+
+
+
+
+D.melanogaster  acacgaagcactaaacccac-aaaaatttattgact--aaagttgtcc------aacaaa
+D.simulans      ACACGAAGCACTAA-------AAAATTGTATTGACTAAAAAGTTGCCC------AACAAA
+D.sechellia     ACACGAAGGACTAAACCCAC-AAAAATGTATTGACTAAAAAGTTGCCC------AACAAA
+D.yakuba        ACACAATCCATTAAACCGACAAAAAATGTATTGAAT--TCTATGGCCCG-----AAACAA
+D.erecta        ACACGAAGCACAAA-CCAAC-AAAAATTTCCTGAAT--TCGGTTGCCC----------AA
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ---------------------AATGACGTCTTGCCTACTTGATGTTCCCT--GTGATAAG
+D.mojavensis    --TTGGTGCGCTGC--------------TGTTGAATACCTAGCTTCCGCCCCTTATAGCA
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  atcctctaaatgaaaactttgcagataatagttgaag----atataatatgaaatattcc
+D.simulans      ATCCTATAAATGAATGCCTTGCAGATAATATTTGAAG----ATATTATATGAAATATTCC
+D.sechellia     ATACTATAAATAAAAACCTTGCAGATAATATTGGAG-----ATATTATATGAAATATTCC
+D.yakuba        ATTCTCTTAATGAAAA----ACATGTAACATTTGAAGTTATATATATTAAAAAAAAAAAC
+D.erecta        ATTCTCTAAATGAAAC----ACAGATAATATTTAAAGTTACACATAATATTAAAAATTCC
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ATGTTCCTCCTTGGAGA-GAAGAGAGAATGTGGAATGTCGAA------------------
+D.mojavensis    ATACTCACACATACAC----ACAGAAAATCATTAAATTCAGTTTTG----TGCACATGCG
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  tattacaaatggtaatagttttttct---------ttttatttttacttcatatattttt
+D.simulans      TATTACAAATGGTATTCGTTTATTCT---------TTTTATATTTACTAATTTTTTTTT-
+D.sechellia     TATTACAAATGGTATTAGTTTTTTCT---------TTTTATTTTTACTTATTTTTTTTTT
+D.yakuba        AAAAAAAAA--------------------AAAAAACCTAAATGTACTATATTTTGCTTTT
+D.erecta        TAATAAATATTGTATGTATTCGTTTATAAAATGCATTTAATCTATACATATTTCGTTTTT
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    CATTCCCTCTGCTGCTCATTTTGT----GAGAGGCCTCGCTCTCTTTCTCTCTCTCTCTC
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  t--------------------------------------tgtttgtgttc----------
+D.simulans      -----------------------------------------------TTT----------
+D.sechellia     ----------------------------------------------ATTT----------
+D.yakuba        TGGTGTATCGCACCAA-TAACATCCATTAACATACAAATGATACATACTCGAGCACGTAC
+D.erecta        TGGTGTATCGCTTAAAATAGCATGTATATGTACATA---CATTCATACTC--GTACATAC
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    TGTC--------------------------------------------------------
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  ---------ttaaatac-----------------------tttttacaataccacttgtt
+D.simulans      ---------TTTAATACT-----------------AATGTCTTTTATTATACCACTTGTT
+D.sechellia     ---------TTAAATAC----------------------------AAAATACCACTTGTT
+D.yakuba        TCTAATGATTTAAATATTTGGCCGATGCCGTTAAAATGGGTTTTTAGAA--------GGT
+D.erecta        TATAATGATTTAAATATTTAGCCGATGTCGTTAAAATGGCTTCTTGCAATACGACTTGGT
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------TCCGGGACAC--------
+D.pseudoobsura  ----------------------------------------TCGCTGGGACAC--------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    ----------------------------------------TGTTTTGGCCGCCGCCTAAA
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  tgacccgagacttcaatcaaaat-----taagcattgtaacattttgttgtggttggata
+D.simulans      TGACTCGAGACTTCAATCAAAAT-----TAAGCATTGTAACATTTTGTTGTGGTTGGATA
+D.sechellia     TGACTCGAGACTTCAATTAAAAT-----TAAGCATTGTAACATTTTGTTGTAGTTGGATA
+D.yakuba        TGACTCTAAACTTTCATAAAAATTTCTCTATGCACTCTAACAATTTGTTGTGGTAGGATA
+D.erecta        TGACTCTGGACTTCAATTAAAATTACTCTATGCACTGTAACAATTTGTTGTGGTTGGATA
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ---------ACCCCAACTACTATCTCCATTACTATTACAGCTCTCTCATTCGC-------
+D.pseudoobsura  ---------ACCCCAACTACTATCTCCATTACTATTACAGCTCTCTCTTTCGC-------
+D.willistoni    ---------------------------------------------TGTTGTAG-------
+D.mojavensis    TGTGGTTGGGCTCGGATTTTTGTTGTCCTCCTGTTGTCTACATGTTTTTATAC----GCA
+D.virillis      ----------------------CATTAGGCATTTTCGCAATGGTCTGCTACA--------
+D.grimshawi     ------------------------------------GCATTGGTCTGCTACA--------
+                                                                            
+
+
+D.melanogaster  atatgcctttgatgtcccgg-tttaaagcagacagagtgtaaa-----------------
+D.simulans      ATATATCTTTGATGTCCCGA-TTTAAAGCAGACAGAGTGTAAA-----------------
+D.sechellia     ATATGTCTTTGATGTCCAGA-TTTAAAGCAGACAGAGTGTAAA-----------------
+D.yakuba        ATGTGCCTTTGATGTCCCGATTTTAAAGCAGAGGGAGTGTAAA-----------------
+D.erecta        ATATG-CTCTGATGTTCCGA-TATAAAGCAGAGGGAGTGTAAA-----------------
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------TCTCTGTCTCTCAT-----TAGCAGCCATCAAGAAATA----------------
+D.pseudoobsura  ------TCTCTGTCTCTCAT-----TAGCAGCCATCAAGAAATA----------------
+D.willistoni    --AAACTTTTCATGTCTTGATTGTGAGTGAGCGATTGCAAAGGA----------------
+D.mojavensis    TTGCGTTTTACATGTCTATCCTTACGAACGCAGACGCCGACGCTGACGTCGACCCGGCGT
+D.virillis      ------TTTTGGTGCCA-GG-CCACAGGCAGTGGCCGGGCCAGG----------------
+D.grimshawi     ------ATTTGGTACCATGG-CGGCACACAGGCGCCGCAACAA-----------------
+                                                                            
+
+
+D.melanogaster  --cactcgattacaaattacaaccactac------------gactggaaactacg-----
+D.simulans      --CACTCGATTACAAATTACAACCACTAC------------GACTGGAAACTACG-----
+D.sechellia     --CACTCGATTACAAATTACAACCACTAC------------GACTGGAAACTACG-----
+D.yakuba        --CACTCGATTACAAATTACAACCACTAC------------GACTGGAAACTAC------
+D.erecta        --CACTCGATTACAAATTACAACCACTAC------------GACTGGAAACTACG-----
+D.ananassae     ------ATGTTCAGAGATACATATATTAA-------------------------------
+D.persimilis    --CTACTCCCCGTAAAGTACAGCTACTAT------------TACTAGTGTGTG-------
+D.pseudoobsura  --CTACTCCCCGTAAAGTACAGCTACTAT------------TACTAGTGTGTG-------
+D.willistoni    --T---CGCTTAAAGTGTCATTCCGTCAA----------TAGACGAGAATCCGTACCTAC
+D.mojavensis    TTCTTGCTCTCGGGCATTCCGTCTGGTGCCTCGTCTGTGTGTTTTTATGCATGCGCCTTC
+D.virillis      --CGCCTCACTATAAAATACTACTATTACACA---------CACACACAAACACGCGAGC
+D.grimshawi     ----------TAGAAAAAAAAAATACTACATAA-----TTCTCCACATAAACA-------
+                                                    
+
+
+D.melanogaster  --gactacaactgg----aactacgtccgcagttttacaactttacaaccgcatgtgtag
+D.simulans      --GACTACAACTGG----AACTACGTCCGCAGTTTTACAACTTTACAACCGCATGTGTAG
+D.sechellia     --GACTACAACTGG----AACTACGTCCGCAGTTTTACAACTTTACAACCGCATGTGTAG
+D.yakuba        --AACTACAACTAG----AACTACGTCTGCAGTTTTACAACTTTACAACCGCATGTGTAG
+D.erecta        --GACTACAACTGG----AACTACGTCCGCAGTTTTACAACTTTACAACCGCATGTGTAG
+D.ananassae     --------------------AGATATGTCTTTTATTATAAATTTAAAACATTTTTCAACA
+D.persimilis    ----------------------GCAACCACATTTTACAACTTTTACAACCGCATGTGTAA
+D.pseudoobsura  ----------------------GCAACCACATTTTACAACTTTTACAACCGCATGTGTAA
+D.willistoni    TTATATGGGCCCCC----CATCCCCACAATACGTGTTTCCATCCCCAACCCCTCCCTTGC
+D.mojavensis    TCGTTCGCACTTGCTGTATTTTGCTATTAGATTTTACTTTGTTTTCATATACATTCGCCG
+D.virillis      ACACACACACACAC----ACACACACACACATCAGTTACTACTTAAAACCGCATTCGTAA
+D.grimshawi     ----------------------ACACACTTATATTTTATTACTTGAAACCGCATTCGTAA
+                                         
+
+
+D.melanogaster  tttt--ttattgcaacc-----------------------------------catttggg
+D.simulans      TTTT--TTATTGCAACC-----------------------------------CATTTGGG
+D.sechellia     TTTT--TTATTGCAACC-----------------------------------CATTTGGG
+D.yakuba        TTTT--TTATTGCAACC-----------------------------------CATTTGGG
+D.erecta        TTTT--TTATTGCAACC-----------------------------------CATTTGGG
+D.ananassae     TGTT--TTAATTCAAGTTTCA-------------------------------TGTTTCAA
+D.persimilis    TTCTTTTTATTGCAACC-----------------------------------CATTCTCT
+D.pseudoobsura  TTCTTTTTATTGCAACC-----------------------------------CATTCTCT
+D.willistoni    TTCTA-TTTTTGTGCTGTTCGCTTTGAAT-----------------------CGTTAGAG
+D.mojavensis    TTTCACACATTACGCTTTGCATCATTTTCGG---------------------GGTCAACG
+D.virillis      TTTT---TATTACAACCACCACCAATG---------------------------------
+D.grimshawi     TTTT---TATTACAACCACCACCACCACTACTAGTACTACTACCACCACTACCACTACCA
+                                                          
+
+
+D.melanogaster  cgacgttgccgcttccgttttctgcctccccctctcactcct----gttcttcttctcct
+D.simulans      CGACGTTGCCGCTTCCGTTTTCTGCCTCCCCCTCCTGCTCCT----GTTCTTCTTCTTCT
+D.sechellia     CGACGTTGCCGCTTCCGTTTTCTGCCTCCCCCTTCTGCTCCT----GTTCTTCTTCTTCT
+D.yakuba        CGACGTTGCCGCTTCCGTTTGCTCACTTCCCT--------------CCTCTTCTTCTTGT
+D.erecta        CGACGTTGCCGCTTCCGTTTGCTGCCTCCCCCT-------------CCTCTTCTTTTTGT
+D.ananassae     CCATGT------TTTCATTTGTAAATTAAATTTCAAACATG-------------------
+D.persimilis    CCAAT-------CCACTTCCTCTGCTTCCTCTTTGCGCTGC----------GCTGCGCTG
+D.pseudoobsura  CCAAT-------CCACTTCCTCTGCTTCCTCTTTGCGCTGCGCTGCGCTGTGCTGCGCTG
+D.willistoni    AAGAAAGCACGTGTTGGCTGTCAGTCATTCATTCAGTCAGTG----ATTGAGATAGCCAA
+D.mojavensis    TCATCTTGAGGGTTGCTCTTGCTGCTGCTTTTGTTGCCACCA----ACGCCGTCAATCGT
+D.virillis      ------------------------------------------------------------
+D.grimshawi     CTACTA---CTACTACTACTACTACTACTACTATAAGCAGCA----GCACTACAACACTA
+                                                                            
+
+
+D.melanogaster  cctc------------ctgctgcttccta-cttttcctcttccttgccgcttcctctttg
+D.simulans      CCTC------------CTGCTGCTTCCTC-CTTTTCCTCTTCCTCGCCGCTTCCTCTTTG
+D.sechellia     CCTC------------CTGCTGCTTCCTC-CTTCTCCTCTTCCTCGCCGGTTCCACTTTG
+D.yakuba        CCTC------------CTGCTGCTT--------TTCCTCTTCCTTGCCGCTTCCTCTTTT
+D.erecta        CCTC------------CTGCTGCTTC-------TTCCTCTTCCTCGCCGCTTCCTCTTTG
+D.ananassae     -----------------------TTTCAT-CCCGTTTTTAATCCCGTTTCATTATATTTA
+D.persimilis    CGGC------------ATGGCGTCTGCGT-----------------------CTGCTTTG
+D.pseudoobsura  CGGC------------ATGGCGTCTGCGT-----------------------CTGCTTTG
+D.willistoni    AAGCG-----------AACCTCTGTCCGT--CCCCCCTTACCCATAAGTGAAACGCGTCC
+D.mojavensis    TTTCG-----------TAGTTGTTTGCGT----TTGTTGTTGTTGGTTTTGTGCACGTCT
+D.virillis      ----------------ATGGCGCATGCAT-CGTTTATCCTGTTCTCACTCTTCTGCTTTT
+D.grimshawi     CAACACTAGATAGCGTATAGCGTATGCATCCATTTATCCTTCTCTCACTCTACTGCTTTA
+                                      
+
+
+D.melanogaster  ggccgtattacga-----ggtgcctgctagtattttttggtagtcact-----------g
+D.simulans      GGCCGTTTTACGA-----GGTGCCTGCTAGTATTTTTTGGTAGTCACT-----------G
+D.sechellia     GGCCGTTTTACGA-----GGTGCCTGCTAGTATTTTTTGGTAGTCACT-----------G
+D.yakuba        GGCCGTTTTACGA-----GGTGCCTGTTAGTATT-TTTGGTAGTCACT-----------G
+D.erecta        GGCCGTTTTACGA-----GGTGCCTGCTAGTATTTTTTGGTAGTCACT-----------G
+D.ananassae     AATCATTTTTAAA--ACATGTTTCATCCTGTTTTCTTTAATAGTCTT-------------
+D.persimilis    GGCCTCCTTTTTACGAGAGACTGCTGCTAGTATATTTTGGTAGTCACT-----------G
+D.pseudoobsura  GGCCTCCTTTTTACGAGAGACTGCTGCTAGTATATTTTGGTAGTCACT-----------G
+D.willistoni    AACAGTCTCACAGGAATAGGAGAAAACGAAGAAGAAACAGAAGAAGATGGTGAATGGGGG
+D.mojavensis    CGTATTTTTGCAGTCCCTCGCAAATACTACGTTTATGTGGCAACCGTT-----ATCATGA
+D.virillis      GGCCTTTTTACTA----TACGCCTTGCTAGTATTTTTTGGTAGTCACT-----------G
+D.grimshawi     GGCCTTTTTACTA---CTACGCCTCGCTAGTATTTTTTGGTAGTCACT-----------G
+                                
+
+
+D.melanogaster  taccacattgcgccgcaataacaacaaa--acaacaa-aaacaccagcaaagggccaacg
+D.simulans      TACCACATTGCGCCGCAACAACAACAAA--ACAACAA-AAACACCAGCAAAGGGCCAACG
+D.sechellia     TACCACATTGCGCCGCAACAACAACAAA--ACAACAA-AAACACCAGCAAAGGGCCAACG
+D.yakuba        TACCACATTGCGCCGCAACAACAACAAA--GCATCAA-AAATACCAGCAAAGGGCCAACG
+D.erecta        TACCACAATGCGCCGCAACAACAACAAA--GCAACAA-AAACACCAGCAAAGGGCCAACG
+D.ananassae     ---------------------------------------AATCCCAGAAAGAGTATTGCA
+D.persimilis    TACCACATTTCCACACCAGCAACAACAACAACAACAACCAGTCCCAGACAAGGGCCAACG
+D.pseudoobsura  TACCACATTTCTACACCAGCAACAACAA---CAACAACCAGTCCCAGACAAGGGCCAACG
+D.willistoni    TGGAAGAATGTGGAGGGAGGGGAAGGGG----------GAGGTCTAGGAGAGTGCCACAG
+D.mojavensis    TGTCATATCGCGTTG------------------------CATTCTAGAATAAAACCATTG
+D.virillis      TACAACATTTTTACAACAGAG------------------CGCCCCAGACAGGGGCCAACG
+D.grimshawi     TACCACATTTTTACAACAGAG------------------CGCCCCAGACAGGGGCCAACG
+                                                      
+
+
+D.melanogaster  acaccgacat--------tttctgcactccgtact--------cgcgcacacacacataa
+D.simulans      ACACCGACAT--------TTTCTGCACTCCGTACT--------CGCACACACACACACAA
+D.sechellia     ACACCGACAT--------TTTCTGCACTCCGTACTCTCACACACACACACACACACACAA
+D.yakuba        ACACCGACAT--------TTTCTGCACTTCGCACT----------CGCACACACACATGA
+D.erecta        ACACCGATAT--------TTTCTGCACTCCGCACT----------CGCACACACACATGA
+D.ananassae     ATCTTCAGAT--------------------------------------------------
+D.persimilis    ACATCGACAT--------------------------------------------------
+D.pseudoobsura  ACATCGACAT--------------------------------------------------
+D.willistoni    ACGCGCACAT--------TCTGTCAGTTGCTCAAT------TAGACGCAC----------
+D.mojavensis    CGTTTTTTGG-------TCTTGAATACCAATAGCTC---AGGCGTCGCGTAAACACGAGG
+D.virillis      ACACCATTTTGCGCGCGTTCTCTCTCCCTCTCCCT-------------------------
+D.grimshawi     ACACCATTTTGCGCG------------------CT-------------------------
+                                                                         
+
+
+D.melanogaster  aactccatcttcctctct------------------------------ctttcgtttcct
+D.simulans      AACTCCTTTTTCCTCTCT------------------------------CTCTCGTTTCCT
+D.sechellia     AACTCCTTCTTCCTCTCT------------------------------CTGTCGTTTCCT
+D.yakuba        AACTCCTTCTCCCTCTGT------------------------------CTGCCTCGCTCT
+D.erecta        AACTCCTTTTCCCTCTCTCTCACTCTCTCTCTCTCCT------TGTCCCTATCGCTCTCT
+D.ananassae     --ACTCTTTACCTTCTCT------------------------------------------
+D.persimilis    -------------------------------------------CGTTTCTGCACTTCACA
+D.pseudoobsura  -------------------------------------------CGTTTCTGCACTTCACA
+D.willistoni    --TTCCGTTGCACACACACTTCCCAACCAGCCC----------CTCCCTTACTCCCTGCC
+D.mojavensis    TGTGTCGTGTCACGTTTTCATGCATTT----------------TATCCTGACATATGAAA
+D.virillis      --CTCCCTCTCTCTCTCTCTCTCTCTCTCTCTC----------TCTCTCTCTCTGTCTTG
+D.grimshawi     --CTCCCTCTCTTTCTCTCTCACACACACACACAGCAGACAGGCACACACATACACAGCA
+                                                                            
+
+
+
+
+D.melanogaster  ctctgtcgcacggccacatgcgt-----------------ttttggggtgtga-gcggga
+D.simulans      CTCTGTCGCACGGCCACATGCGT-----------------TTCGGGGGTGTGA-GCGGGA
+D.sechellia     CTCTGTCGCACGGCCACATGCGT-----------------TTCGGGGGTGTGA-GCGGGA
+D.yakuba        CTCTGTCGCACGGCCACATGCGT-----------------TTTGGGGGTGTGA-GCGAGA
+D.erecta        CTCTGTCGCACGGCCACATGCGT-----------------TTGTGGGGTGTGA-GCGAGA
+D.ananassae     ------------------------------------------------------------
+D.persimilis    CACAGGCACACATACTCGCGCACACTCCCTCTCGGCTGTTACAAGAAGGGCAGAGCGAGA
+D.pseudoobsura  CACAGGCACACATACTCGCGCACACTCCCTCTCGGCTGTTACAAGAAGGGCAGAGCGAGA
+D.willistoni    CCCACATAGATCTTGTCACACTCTCTC---------------------------TCTCTA
+D.mojavensis    AAAATGCAGAAATAGGAAAGTGT--------------AATTAATAAATTATAA-TCGAAA
+D.virillis      CACAAACAGACACACTCACACAC-----------------AAATGCCTGGCAG---GGGA
+D.grimshawi     GACAGGCACACACACACACGTGC-----------------ATGCATGGGACAG---GGAA
+                                                                            
+
+
+D.melanogaster  cagtcgtgcgcctcttttt------------ccattcataagcgactgcgttttgcgctc
+D.simulans      TAGTCGTGCGCCTCTTTTT------------CCATTCATAAGCGACTGCGTTTTGCGCTC
+D.sechellia     CAGTCGTGCGCCTCTTTTT------------CCATTCATAAGCGACTGCGTTTTGCGCTC
+D.yakuba        TAGTCGTGCGCCTCTTTT-------------CCATTCATAAGCGACTGCGTTTGCGACTC
+D.erecta        CAG-------TCTCTTTTT------------CCATTCATAAGCGACTGCGTTTTGCGCTC
+D.ananassae     ----------TTTCTTTTTATAC--------CCTTGCAGAGGGTATTATAATTT------
+D.persimilis    CAGCAGTGCGCCTTCGTT-------------CCATTCATAAGCGACGACGCG--------
+D.pseudoobsura  CAGCAGTGCGCCTTCGTT-------------CCATTCATAAGCGACGACGCG--------
+D.willistoni    TGTGTGTATGTCTCTATGTGTTTTTCT----TTTTCTATATTTATTTCCGTTTTGTGTG-
+D.mojavensis    TCGAAACGAAGTCCATTA-------------TTTTAAATACGCCAAAGTGCAATGAAA--
+D.virillis      CAGGCGTGCGCCTTCATTCATAAGCGTTGCGCTTTTTGCAGTCGACGACGAC--------
+D.grimshawi     CAGGCGTGCGCCTTCATTCATAAGCGTTGCGCTTTTTGCAGTCGACGGCGGC--------
+                                    
+
+
+D.melanogaster  gttgttgttgctgttgtctctctgctggcgct-tggcaaaaaatatttttaaaaagttat
+D.simulans      GTTGTTGTTGCTGTTGTCTCTCTGCTGGCGCT-TGGCAAAAAATATTTTAAAAAAGTTAT
+D.sechellia     GTTGTTGTTGCTTTTGTCTCTCTGCTGGCGCT-TGGCAAAAAAT-TTTTAAAAAAGTTAT
+D.yakuba        GTTGTTGTTGCTGTTGTCCCTCTGCTGGCGCT-TGGCAAAAAATATTAAAAAAAAATTAT
+D.erecta        ------GTTGTTGTTGTCCCTCTGCTGGCGCT-TGGCAAAAAATATTTTTAAAAAATTAT
+D.ananassae     ---------------------------------TGGTCAAAAGT----------------
+D.persimilis    ------ACGACCGGCGGCGCTTCGTTTTTGCC-TGCTCAAAAAT----------------
+D.pseudoobsura  ------ACGACCGGCGGCGCTTCGTTTTTGCC-TGCTCAAAAAT----------------
+D.willistoni    -----TGTGATTGATGGCTGACTGCTGTATGTACAGAGGACAATGGT-AGGATGAGGGAG
+D.mojavensis    ---------------------------------TAGTTAGATAT-----GGATTACTTAT
+D.virillis      ------GACGTCGACGGCG--GCGGCGCCGCCACTCTGCAAAAT----------------
+D.grimshawi     ------GCCGCT---------------------CACTGCAAAAT----------------
+                                                                
+
+
+D.melanogaster  ttggcggcctccatc----------tgtgaggaaatttgtttcgttttttttatgtatct
+D.simulans      TTGGCGGCCTCCATC----------TGTGAGGAAATTTGTTTCGT-TATTTTATGTGTCT
+D.sechellia     TTGGCGGCCTCCATC----------TGTGAGGAAATTTGTTTCGT-TATTTTATGTGTCT
+D.yakuba        TTGACGGTCTCCATC----------TGTGAGGAAATTTGTTTTGT-------------GT
+D.erecta        TTGGCCGCCTCCATC----------TGTGAAGAAGTTCGATTTGT-TATTTTATGTGTGT
+D.ananassae     ------------------------------------------------------------
+D.persimilis    TTGGCGGC---------------------------------------------GGCGGCT
+D.pseudoobsura  TTGGCGGC---------------------------------------------GGCGGCT
+D.willistoni    ACGACGACGATGAAGAGGAGGAGGAGGAGGAGGAGTTGGTGAAGG------GAGGGAGCA
+D.mojavensis    TTAGATGTACTCAGG-------------------------------------CAGGATTC
+D.virillis      TTGGCGGCTTGCA------------TGTGAACAATTTTCGTT----------ATTTATGT
+D.grimshawi     TTGGCGGCTTGCA------------TGTGAAAAATGTTGTTA----------TTGTGTGT
+                                                                            
+
+
+
+
+D.melanogaster  ttgaagtatttgatgc--tctttcctttt-------------tttcgtttgcagtattgt
+D.simulans      TTGAAGTAGTTGATGC--TCTTTTCTTTT----------GTTTTGCGCTTGCAGTATTAT
+D.sechellia     TTGAAGTAGTTGATGC--TCTTTTCTTTT----------GTTTTGCGCTTGCAGTATTAT
+D.yakuba        TTGAAATAGTTGATGC--TCTTTCTTTTT-----TATTTTTTTGTCCTTTGTAGCTATTT
+D.erecta        TTGAAGTAGTTTATGA--TCTTTTTCTTTTCCATTTTTTTTTTTGCGATTATAGTTATGT
+D.ananassae     ------------------------------------------------------------
+D.persimilis    GCGGCTTCGGCT------TCGTGTGCGTGTCGAGTGCAGTTGTTG-TGTTGTTGCTCTTT
+D.pseudoobsura  GCGGCCTCGGCT------TCGTGTGCGTGTCGAGTGCAGTTGTTG-TGTTGTTGCTCTTT
+D.willistoni    GGGAATATGTTGAGAG---------------ACCTCGTGTTGTTGTTTTAGTTGTTGTTG
+D.mojavensis    GTGTATCATTCTA-----CCATCTCTGT---ATTTGGTGCTGTTGCTGCAAAATTTTGTA
+D.virillis      GTGTATTTGTCTGTACTGGCGCTTTTGTTGTTTCTGTTTCTGTTTTTGTTATTGTTTTTG
+D.grimshawi     GTGTGTTTGTCT--------GCCTGTGTGTGAACTGTCGTTTTTGTTGTTATTGTTTTTG
+                                                                            
+
+
+D.melanogaster  ttc-tttccttagtgagattgcaaagttaccgcccttat-cacac-------atacagcc
+D.simulans      TCC-TTTCCTTAGTGAGACTGCAAAGTTACCGCCCTTAT-CACACACACAGGACACAGCC
+D.sechellia     TCC-TTTCCTTGGTGAGACTGCAAAGTTACCGCCCTTAT-CACACACACAGGACACAGCC
+D.yakuba        TTC-----CTTGGTGAGACTGCAAAGTTACCGCCCTTAT-AACAAACACAG-ACTCAGCC
+D.erecta        TTCCATTTCTTGGTGAGACTGCAAAGTTACCGCCCTTAT-CACAC-------ACACAGCC
+D.ananassae     ------------------------------------------------------------
+D.persimilis    TTC--ATTTTACACTAGACAAAATGTTGTTGGTTTTATT---------------------
+D.pseudoobsura  TTC--ATTTTACACTAGACAAAATGTTGTTGGTTTTATT---------------------
+D.willistoni    TTC-----------------GCTTAATGTCGGTTTTTAT---------------------
+D.mojavensis    TTCTGGTGCCACTCGA----ACGGTGCTCCCGTTTCGATACGCCTGTCCAT-TCCCCCTC
+D.virillis      TTC--GTGCTGCTGTTGCATGCGTAGCTTCCGCCCTTAT---------------------
+D.grimshawi     CTC--GTGCTGCTGTTGAATGCGTAGCTTCCGCCCTTAT---------------------
+                                                                            
+
+
+D.melanogaster  tccgggtttttcgcaccgtacgtttatacgtaagccatgtaaatcgtgatttattcatac
+D.simulans      TCCGGGTTTTCCACACCGTACGTTTATACGTAAGCCATGTAAATCGTGATTTATTCATAC
+D.sechellia     TCCGGGTTTTCCACACCGTACG--TATACGTAAGCCATGTAAATCGTGATTTATTCATAC
+D.yakuba        TGCGGGTTTTCTACACCGTACGTTTATACGTAAGCCATGTGAATTGTGATTTATTCATGC
+D.erecta        TCCGCGTTTTCCACACCGTACGTTTATACTTAACCCATGTAAATCGTGATTTATTCATGC
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ---------------TTGTATTTTTATT--------------------------------
+D.pseudoobsura  ---------------TTGTATTTTTATT--------------------------------
+D.willistoni    -----------------GTCTTTTTGTT--------------GTTGTTGTTGGTGTATG-
+D.mojavensis    CGCAAGTGTTACTGACTGCGTGTTTCTGCGCCCGTGAC---GGTTTTTTTTTTTTTTT--
+D.virillis      ---------------CACAACATTTACACGCA----------------------------
+D.grimshawi     ---------------CATAACATTTACACACAC---------------------------
+                                                                            
+
+
+D.melanogaster  ccaaaacaaacaca------------cagcgcttataagtgaaatgcaattcacgaattc
+D.simulans      CCAAAACAAACACA------------ATACGCTCATAAGTGAAATGCAATTCACGAACTC
+D.sechellia     CCAAAACAAACACA------------ATACGCTCATAAGTGAAATGCAATTCACGAACTC
+D.yakuba        CCAAAACGAACATAAATATGTATATCAAACGCTCATAAGTGCAATGCAATTCATGAACTC
+D.erecta        CCAAAACAAACATACATATTTA----AAACACTCATAAGTGCAATGCAATTCATGAACCC
+D.ananassae     --------------------------------------GTGCAACGCAGT----------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    --------------------------ATGTAACCAGAAATGAAACTGAAA----------
+D.mojavensis    --------------------------TCGTTTTTATACCCTGAACCCATTT---------
+D.virillis      ------------------------------------------------------------
+D.grimshawi     --------------------------ACACA-----------------------------
+                                                                            
+
+
+
+
+D.melanogaster  gtg----gtgtttttactataacattgtttgttcagctttcactggatagcagtttaggg
+D.simulans      GTG----GTGTTTTTACCATAACATTGTTTATTCAGCTTTCACTGGATAGCAGTTAAGGG
+D.sechellia     GTG----GTGTTTTTACTATAACATTGTTTATTCAGCTTTCGCTGGATAGCAGTTAAGGG
+D.yakuba        GTA----AGGGTTTTGCTATAACATTGCTTATTCAGCTTTTACTGGAAAGCAGCTAAGGG
+D.erecta        CCGTTTTTTATTTCTGTTATAACACTGTTTATTCAACTTTTACTAGATAACAGTTAAGGG
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    --------------------------------------TCAATGGGAAATCGGTATAATG
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  ttatcacaaaaaaaaatg-aatttttaatgtgttttagatgtaaaaataacaaaaagaaa
+D.simulans      ATACCACAAAAAAAAAAAGAATTTTTAATGTGTTTTAGATGTAAAAATAATAAAAAGAAA
+D.sechellia     ATACCACGAAAAAAACGA-ATTTTTTAATGTGTTTTAGATGTAAAAATAATAAAAAGAAA
+D.yakuba        ATAC--CAAAAAAAATTG-AATTTAAAATGTTTTTTAGATATAAAAATAAT--AAAGAGA
+D.erecta        ATACCATAAAAAAAAACA-AATTTTTAATACGTTTTAGATATAAAAATAATAGAAGGAAA
+D.ananassae     --------GAAGGAGACA------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    ------CGAAATGAAACG--------------------------AAACGGAACAATGTAA
+D.mojavensis    GTTTTGTGAAAAAGTATG--------------------------TAACGGTCAGAAGGAA
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  ttat---ctagaaatttttacatttcat---ttacatac---gcacgcca----------
+D.simulans      TTATTACCTAGAAATTTTAAAATTTCATATGTAATATGTAATGCACGCCAAAGA-TTAGT
+D.sechellia     TGATTATCTAGAAA--TTAAAATTTCAT---TAACATATGA-GAACGCCAAAGA-TTAGT
+D.yakuba        TTAT--------------------------------------------------------
+D.erecta        TTATTATTT-------CTGTTATTATATAATTTACATAT---TTACGCCATTGTCTTACT
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    CGATTAACA-------TTATATGTATGT---ATATACAT---ATACAACACAA-------
+D.mojavensis    TCATCGCAT-------ATATATATATAT---ATATATAT---ATAT--------------
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+D.melanogaster  ---tctgggaaatgcaatttataaat----------aataatcataataaaattattgac
+D.simulans      GCATCTGAGAAAGGCAATTTATTAATTAAATTTATAAATAATAAAAATATTGTTATTGAC
+D.sechellia     GCATCTGGGAAAGGCAATTTATTACTTAAATTTATAAATAATCAAAATGTTGTTTTTGAC
+D.yakuba        ------------------------------------AATAATAAAAAGAAAA---TTAAC
+D.erecta        ACATCTGGG----GTAATTTAAAACTAATATTTATAAATAATCAGACAAAAT-TATTAGC
+D.ananassae     ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobsura  ------------------------------------------------------------
+D.willistoni    -------------------------AAATTCATAAAAATAACAAAGTAAAGG------CC
+D.mojavensis    ---------------------------ATATATATATATATTCATAGTATAC------CA
+D.virillis      ------------------------------------------------------------
+D.grimshawi     ------------------------------------------------------------
+                                                                            
+
+
+
+
+D.melanogaster  aaacagttaattcgtttgatctcgtattcatcgt-
+D.simulans      GTTGAGTGAATTCATTTTATCTTCTACTCA-----
+D.sechellia     GATAAGTGAATTCATTTTATCTTCTACTCA-----
+D.yakuba        AAAACATGCA----TTTTATCTGGTACTCA-----
+D.erecta        AAAACAGGAA----TTTTATCGTGTACTTA-----
+D.ananassae     -----------------------------------
+D.persimilis    -----------------------------------
+D.pseudoobsura  -----------------------------------
+D.willistoni    CAAAAACGGAG---TGCTGCTGC-TGCTGCGGGT-
+D.mojavensis    TATACATATAT---TCTTGATCAGCACGACGAGCT
+D.virillis      -----------------------------------
+D.grimshawi     -----------------------------------

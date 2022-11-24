@@ -1,0 +1,493 @@
+CLUSTAL format alignment by MAFFT FFT-NS-i (v7.429)
+
+
+D.melanogaster  acacgaagcactaaacccac-aaaaatttattgact--aaagttgtccaaca-aaatcct
+D.simulans      ACACGAAGCACTAA-------AAAATTGTATTGACTAAAAAGTTGCCCAACA-AAATCCT
+D.sechellia     ACACGAAGGACTAAACCCAC-AAAAATGTATTGACTAAAAAGTTGCCCAACA-AAATACT
+D.yakuba        ACACAATCCATTAAACCGACAAAAAATGTATTGAAT--TCTATGGCCCGAAACAAATTCT
+D.eracta        ACACGAAGCACAAA-CCAAC-AAAAATTTCCTGAAT--TCGGTTGCCC-----AAATTCT
+D.anannassae    ---------ATTGA----------CATTCGTTTATT-----------------ATTTTCC
+D.persimilis    ACACACCCCAACTA----------------------------------------------
+D.pseudoobscura ACACACCCCAACTA----------------------------------------------
+D.willistoni    ------AGTATTGA-------------TGGTTGAGTGGCGTGTGGC--------------
+D.mojavensis    ------------------------------------------------------------
+D.virilis       --------CATTAG----------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ctaaatgaaaactttgcagataatagttgaag----atataatatgaaatattcctatta
+D.simulans      ATAAATGAATGCCTTGCAGATAATATTTGAAG----ATATTATATGAAATATTCCTATTA
+D.sechellia     ATAAATAAAAACCTTGCAGATAATA-TTGGAG----ATATTATATGAAATATTCCTATTA
+D.yakuba        CTTAATGAAA----AACATGTAACATTTGAAGTTATATATATTAAAAAAAAAAACAAAAA
+D.eracta        CTAAATGAAA----CACAGATAATATTTAAAGTTACACATAATATTAAAAATTCCTAATA
+D.anannassae    GTTGGTGCCC--------------------AGTTGTGCCAGTGTATGAGTGTAATAAACA
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    -------------GTGTGTGTAGGATTCGTGGAGGAGCAGAAGGAGGAGGAGGAGAGAGG
+D.mojavensis    ------------------------------------------------------------
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  caaatggtaatagtttttt---------ctttttatttttacttca--tatatttttttg
+D.simulans      CAAATGGTATTCGTTTATT---------CTTTTTATATTTACT-------AATTTTTTTT
+D.sechellia     CAAATGGTATTAGTTTTTT---------CTTTTTATTTTTACT-------TATTTTTTTT
+D.yakuba        AAAAAAA---------------------AAACCTAAATGTACT------ATATTTTGCTT
+D.eracta        AATATTGTATGTATTCGTTTATAAAATGCATTTAATCTATACA-------TATTTCGTTT
+D.anannassae    ACACACGT--------------------GGTTGCAGTTCTATTGAG-CGCTATCTCTATG
+D.persimilis    ---------------------------CTATCTCCATTACTAT-----TACAGCTCTCTC
+D.pseudoobscura ---------------------------CTATCTCCATTACTAT-----TACAGCTCTCTC
+D.willistoni    GGAGTGGT--------------------TGTGGTGGTTGTGGTGGGAGTATAGTTTTTCC
+D.mojavensis    -------------------------------TTTCGCAATGGTCTG-TTACATTTAGGTG
+D.virilis       ---------------------------GCATTTTCGCAATGGTCTG-CTACATTTTGGTG
+D.grimshwi      -----------------------------------GCATTGGTCTG-CTACAATTTGGTA
+                                                                       
+
+D.melanogaster  tttg-------------------------------------------tgttc--------
+D.simulans      T------------------------------------------------TTT--------
+D.sechellia     TT----------------------------------------------ATTT--------
+D.yakuba        TTTGGTGTATCGCAC-CAATAACATCCATTAACATACAAATGATACATACTCGAGCACGT
+D.eracta        TTTGGTGTATCGCTTAAAATAGCATGTATATGTACATA---CATTCATACTC--GTACAT
+D.anannassae    TCT--------------------------------------------CTCTC--------
+D.persimilis    ATT--------------------------------------------CGCTC--------
+D.pseudoobscura TTT--------------------------------------------CGCTC--------
+D.willistoni    GTT--------------------------------------------CATTA--------
+D.mojavensis    C-----------------------------------------------------------
+D.virilis       CCA---------------------------------------------------------
+D.grimshwi      CCA---------------------------------------------------------
+                                                                            
+
+D.melanogaster  -----------ttaaatact-----------------------ttttacaataccacttg
+D.simulans      -----------TTTAATACTAAT-----------------GTCTTTTATTATACCACTTG
+D.sechellia     -----------TTAAATACAAA----------------------------ATACCACTTG
+D.yakuba        ACTCTAATGATTTAAATATTTGGCCGATGCCGTTAAAATGGGTTTTTAGAA--------G
+D.eracta        ACTATAATGATTTAAATATTTAGCCGATGTCGTTAAAATGGCTTCTTGCAATACGACTTG
+D.anannassae    ---------------------------------------------------------CGT
+D.persimilis    ---------------------------------------------------------TCT
+D.pseudoobscura ---------------------------------------------------------TCT
+D.willistoni    -----------TTA-------------------------------------------TTT
+D.mojavensis    ------------------------------------------------------------
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  tttgacccgagacttcaatcaaaat-----taagcattgtaacattttgttgtggttgga
+D.simulans      TTTGACTCGAGACTTCAATCAAAAT-----TAAGCATTGTAACATTTTGTTGTGGTTGGA
+D.sechellia     TTTGACTCGAGACTTCAATTAAAAT-----TAAGCATTGTAACATTTTGTTGTAGTTGGA
+D.yakuba        GTTGACTCTAAACTTTCATAAAAATTTCTCTATGCACTCTAACAATTTGTTGTGGTAGGA
+D.eracta        GTTGACTCTGGACTTCAATTAAAATTACTCTATGCACTGTAACAATTTGTTGTGGTTGGA
+D.anannassae    CTCACCCACACACACCGGTGTGATA-----------------------------------
+D.persimilis    GTCTCTCATTAGCAGCCATCAAGAA-----------------------------------
+D.pseudoobscura GTCTCTCATTAGCAGCCATCAAGAA-----------------------------------
+D.willistoni    GCTCACTAGGAAAATTTACTACACT-----------------------------------
+D.mojavensis    --------CAAACAAATACAGAAAC-----------------------------------
+D.virilis       ---GGCCACAGGCAGTGGCCGGGCC-----------------------------------
+D.grimshwi      --TGGCGGCACACAGGCGCCGCAAC-----------------------------------
+                                                                        
+
+D.melanogaster  taatatgcctttgatgtcccgg-tttaaagcagacagagtgtaaacactcgattacaaat
+D.simulans      TAATATATCTTTGATGTCCCGA-TTTAAAGCAGACAGAGTGTAAACACTCGATTACAAAT
+D.sechellia     TAATATGTCTTTGATGTCCAGA-TTTAAAGCAGACAGAGTGTAAACACTCGATTACAAAT
+D.yakuba        TAATGTGCCTTTGATGTCCCGATTTTAAAGCAGAGGGAGTGTAAACACTCGATTACAAAT
+D.eracta        TAATATG-CTCTGATGTTCCGA-TATAAAGCAGAGGGAGTGTAAACACTCGATTACAAAT
+D.anannassae    ------------------------------------------AAAGATT--ATTATAAAA
+D.persimilis    ------------------------------------------ATACTACTCCCCGTAAAG
+D.pseudoobscura ------------------------------------------ATACTACTCCCCGTAAAG
+D.willistoni    ----------------------------------------------------------AT
+D.mojavensis    ------------------------------------------AGGCGCCGCGTTACAAAA
+D.virilis       ------------------------------------------AGGCGCCTCACTATAAAA
+D.grimshwi      ------------------------------------------AA---------TAGAAAA
+                                                                           
+
+D.melanogaster  tacaaccactacg-actggaaactacggact-----acaactggaactacgtccgcagt-
+D.simulans      TACAACCACTACG-ACTGGAAACTACGGACT-----ACAACTGGAACTACGTCCGCAGT-
+D.sechellia     TACAACCACTACG-ACTGGAAACTACGGACT-----ACAACTGGAACTACGTCCGCAGT-
+D.yakuba        TACAACCACTACG-ACTGGAAACTACA-ACT-----ACAACTAGAACTACGTCTGCAGT-
+D.eracta        TACAACCACTACG-ACTGGAAACTACGGACT-----ACAACTGGAACTACGTCCGCAGT-
+D.anannassae    CATGATTATTTCAAAATAATCATGTCATGTT---------ATACTGTTATAATCATGTCA
+D.persimilis    TACAGCTACTATT-ACTAGT-----------------------GTGTGGCAACCACATT-
+D.pseudoobscura TACAGCTACTATT-ACTAGT-----------------------GTGTGGCAACCACATT-
+D.willistoni    TACACTTACTACA-ACTAGCA---------------------AAAGTATTACACACATT-
+D.mojavensis    TACTACTTCTATA----ACTACACACACACATGTTCGCATATGCACATGCACACAAAAA-
+D.virilis       TACTACTATTACA----CACACACACAAACACGCGAGCACACACACACACACACACACAC
+D.grimshwi      AAAAAATACTACATAATTCTCCACATAAACA-----------------ACACACTTATA-
+                                                                   
+
+D.melanogaster  -------tttacaactttacaaccgcatgtgtag--ttttttattgcaacccatttgggc
+D.simulans      -------TTTACAACTTTACAACCGCATGTGTAG--TTTTTTATTGCAACCCATTTGGGC
+D.sechellia     -------TTTACAACTTTACAACCGCATGTGTAG--TTTTTTATTGCAACCCATTTGGGC
+D.yakuba        -------TTTACAACTTTACAACCGCATGTGTAG--TTTTTTATTGCAACCCATTTGGGC
+D.eracta        -------TTTACAACTTTACAACCGCATGTGTAG--TTTTTTATTGCAACCCATTTGGGC
+D.anannassae    G------TATAACATTGTTAGATTGT-TTTGTAGACTATGTTGATGTGGCTTGTAATTTT
+D.persimilis    -------TTACAACTTTTACAACCGCATGTGTAATTCTTTTTATTGCAACCCATTCTCTC
+D.pseudoobscura -------TTACAACTTTTACAACCGCATGTGTAATTCTTTTTATTGCAACCCATTCTCTC
+D.willistoni    -------TACAACTTTTTACAACCGCAATTGTAAA-ATTTTTATGGCCAACACCCTTAC-
+D.mojavensis    -------GTTTACTACTTAAAACTGCTTTCGTAT---CTCTTATTACAACCACCACTACC
+D.virilis       ACACATCAGTTACTACTTAAAACCGCATTCGTAA---TTTTTATTACAACCACCACCAAT
+D.grimshwi      -------TTTTATTACTTGAAACCGCATTCGTAA---TTTTTATTACAACCACCACCACC
+                                                       
+
+D.melanogaster  ------gacgttgccgcttccgt--tttctgcctccccctctcactcctgttcttcttct
+D.simulans      ------GACGTTGCCGCTTCCGT--TTTCTGCCTCCCCCTCCTGCTCCTGTTCTTCTTCT
+D.sechellia     ------GACGTTGCCGCTTCCGT--TTTCTGCCTCCCCCTTCTGCTCCTGTTCTTCTTCT
+D.yakuba        ------GACGTTGCCGCTTCCGT--TTGCTCACTTCCCTCC----------TCTTCTTCT
+D.eracta        ------GACGTTGCCGCTTCCGT--TTGCTGCCTCCCCCTCC---------TCTTCTTTT
+D.anannassae    CAAAAAGATGTAAAGGCCTAAATAATTACAAATCCAGTCA-----------TTTTTTAAT
+D.persimilis    CAAT---------------------CCACTTCCTCTGCTTCC---------TCTTTGCGC
+D.pseudoobscura CAAT---------------------CCACTTCCTCTGCTTCC---------TCTTTGCGC
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    ------AACACCA-----------------------------------------------
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------ACTACTAGTACTACTACCACCACTACCACTACCACT-ACTACTACTACTACTAC
+                                                                            
+
+D.melanogaster  cct-------------------------------------------cctcctgctgcttc
+D.simulans      TCT-------------------------------------------CCTCCTGCTGCTTC
+D.sechellia     TCT-------------------------------------------CCTCCTGCTGCTTC
+D.yakuba        TGT-------------------------------------------CCTCCTGCTGCTT-
+D.eracta        TGT-------------------------------------------CCTCCTGCTGCTTC
+D.anannassae    TGA-------------------------------------------CTGCGTGCCCTGTT
+D.persimilis    TGC--------------GCTGCGCTG--------------------CGGCATGGCGTCTG
+D.pseudoobscura TGC----GCTGCGCTGTGCTGCGCTG--------------------CGGCATGGCGTCTG
+D.willistoni    ----------------------------------------------ACTCATGCTGTCTC
+D.mojavensis    ----------------------------------------------CCTGATGGCGAATG
+D.virilis       -------------------------------------------------GATGGCGCATG
+D.grimshwi      TACTACTACTATAAGCAGCAGCACTACAACACTACAACACTAGATAGCGTATAGCGTATG
+                                                                        
+
+D.melanogaster  cta-cttttcctcttccttgccgcttcctctttgggc---cgtattacga---ggtgcc-
+D.simulans      CTC-CTTTTCCTCTTCCTCGCCGCTTCCTCTTTGGGC---CGTTTTACGA---GGTGCC-
+D.sechellia     CTC-CTTCTCCTCTTCCTCGCCGGTTCCACTTTGGGC---CGTTTTACGA---GGTGCC-
+D.yakuba        -------TTCCTCTTCCTTGCCGCTTCCTCTTTTGGC---CGTTTTACGA---GGTGCC-
+D.eracta        -------TTCCTCTTCCTCGCCGCTTCCTCTTTGGGC---CGTTTTACGA---GGTGCC-
+D.anannassae    TTA-------------------ACCTTTACCTCCGAC---TGTTTTCCTG---TTCGCC-
+D.persimilis    CGT-----------------------CTGCTTTGGGCCTCCTTTTTACGA---GAGACTG
+D.pseudoobscura CGT-----------------------CTGCTTTGGGCCTCCTTTTTACGA---GAGACTG
+D.willistoni    TTT-CACTCGCTCAA----------TGTGTTTTAGGCCTTCGTCCTCAGA----------
+D.mojavensis    CAT-CGTTTATCCTGCTCTCACTCTTTAGCTTTAGGC---CTTTTTACTATACTACGCT-
+D.virilis       CAT-CGTTTATCCTGTTCTCACTCTTCTGCTTTTGGC---CTTTTTACTA---TACGCC-
+D.grimshwi      CATCCATTTATCCTTCTCTCACTCTACTGCTTTAGGC---CTTTTTACTA--CTACGCC-
+                                                               
+
+D.melanogaster  -tgctagtattttttggtagtcactgtaccacattgc----------gccgcaataacaa
+D.simulans      -TGCTAGTATTTTTTGGTAGTCACTGTACCACATTGC----------GCCGCAACAACAA
+D.sechellia     -TGCTAGTATTTTTTGGTAGTCACTGTACCACATTGC----------GCCGCAACAACAA
+D.yakuba        -TGTTAGTAT-TTTTGGTAGTCACTGTACCACATTGC----------GCCGCAACAACAA
+D.eracta        -TGCTAGTATTTTTTGGTAGTCACTGTACCACAATGC----------GCCGCAACAACAA
+D.anannassae    TGGTAAATAACGCGCGATA--CAACAAATCGTATTGC----------------------A
+D.persimilis    CTGCTAGTATATTTTGGTAGTCACTGTACCACATTTCCACACCAGCAACAACAACAACAA
+D.pseudoobscura CTGCTAGTATATTTTGGTAGTCACTGTACCACATTTCTACACCA---GCAACAACAACAA
+D.willistoni    --CTTAGTATATTTTGGTAGTCACTGTACCACATTTT---------TACAGCAACAACAA
+D.mojavensis    TTGCTAGTATTTTTTGGTAGTCACTGTACCACATTTT------------------TACAA
+D.virilis       TTGCTAGTATTTTTTGGTAGTCACTGTACAACATTTT------------------TACAA
+D.grimshwi      TCGCTAGTATTTTTTGGTAGTCACTGTACCACATTTT------------------TACAA
+                                                     
+
+D.melanogaster  caaaa-caacaaaaacaccagcaaagggccaacgacaccga----cattttctgcactcc
+D.simulans      CAAAA-CAACAAAAACACCAGCAAAGGGCCAACGACACCGA----CATTTTCTGCACTCC
+D.sechellia     CAAAA-CAACAAAAACACCAGCAAAGGGCCAACGACACCGA----CATTTTCTGCACTCC
+D.yakuba        CAAAG-CATCAAAAATACCAGCAAAGGGCCAACGACACCGA----CATTTTCTGCACTTC
+D.eracta        CAAAG-CAACAAAAACACCAGCAAAGGGCCAACGACACCGA----TATTTTCTGCACTCC
+D.anannassae    CAAA----TTTAAGGCGCAAAAAAGTAGAAAATAACAAT------TATTTTTTTTAGCTT
+D.persimilis    CAAC--------CAGTCCCAGACAAGGGCCAACGACATCGA--CATCGTTTCTGCACTTC
+D.pseudoobscura CAAC--------CAGTCCCAGACAAGGGCCAACGACATCGA--CATCGTTTCTGCACTTC
+D.willistoni    CAAAAACGCGTCTCGTCCCAGACAAGGGCCAACGACATCAAGTCTCCCTCTCTTTCGCTC
+D.mojavensis    CAGA--------GCGCCCCAGACAGGGGCCAACGACAC-------CATTTTGCGCGCGCT
+D.virilis       CAGA--------GCGCCCCAGACAGGGGCCAACGACAC-------CATTTTGCGCGCGTT
+D.grimshwi      CAGA--------GCGCCCCAGACAGGGGCCAACGACAC-------CATTTTGCGCGCTCT
+                                               
+
+D.melanogaster  gtact--------cgcgcacacacacataaaactccatcttcctctctctt---------
+D.simulans      GTACT--------CGCACACACACACACAAAACTCCTTTTTCCTCTCTCTC---------
+D.sechellia     GTACTCTCACACACACACACACACACACAAAACTCCTTCTTCCTCTCTCTG---------
+D.yakuba        GCACT----------CGCACACACACATGAAACTCCTTCTCCCTCTGTCTG---------
+D.eracta        GCACT----------CGCACACACACATGAAACTCCTTTTCCCTCTCTCTCACTCTCTCT
+D.anannassae    GCTAAA-------ATTTTATAACTAAAAAAAA----------------------------
+D.persimilis    ACACAC------------------------------------------------------
+D.pseudoobscura ACACAC------------------------------------------------------
+D.willistoni    GCTCGC------------------------------------------------------
+D.mojavensis    CTCAAC-------CTC--------------------------------------------
+D.virilis       CTCTCT-------CCCTC---------------TCCCTCTCCCTCTCTCTC---------
+D.grimshwi      CCC---------------------------------------------------------
+                                                                           
+
+D.melanogaster  ---------------tcgtttcctctctgtcgcacggccacatgcgttttt------ggg
+D.simulans      ---------------TCGTTTCCTCTCTGTCGCACGGCCACATGCGTTTCG------GGG
+D.sechellia     ---------------TCGTTTCCTCTCTGTCGCACGGCCACATGCGTTTCG------GGG
+D.yakuba        ---------------CCTCGCTCTCTCTGTCGCACGGCCACATGCGTTTTG------GGG
+D.eracta        CTCTCCTTGTCCCTATCGCTCTCTCTCTGTCGCACGGCCACATGCGTTTGT------GGG
+D.anannassae    ---------------TTTCCTCCTTTTTTCCCCTCATTCG--------------------
+D.persimilis    ---------------AGGCACACATACTCGCGCACACTCCCTCTCGGCTGTTACAAGAAG
+D.pseudoobscura ---------------AGGCACACATACTCGCGCACACTCCCTCTCGGCTGTTACAAGAAG
+D.willistoni    ---------------TCGCTCTCTCTCTCACACACACACACATTTGCTTGG---------
+D.mojavensis    ---------------TCTGTCTCTCTTTCACTCACACACACA-CAGACAGGCACCGAACA
+D.virilis       ---------------TCTCTCTCTCTCTCTCTCTCTCTCTCT-CTGTCTTGCACAA-ACA
+D.grimshwi      ---------------TCTCTTTCTCTCTCACACACACACACAGCAGACAGGCACAC-ACA
+                                                                  
+
+D.melanogaster  gtgtgagc-------------------------------------gggacagtcgtgcgc
+D.simulans      GTGTGAGC-------------------------------------GGGATAGTCGTGCGC
+D.sechellia     GTGTGAGC-------------------------------------GGGACAGTCGTGCGC
+D.yakuba        GTGTGAGC-------------------------------------GAGATAGTCGTGCG-
+D.eracta        GTGTGAGC-------------------------------------GAGACAGT-------
+D.anannassae    ------------------------------------------------------GGTTGC
+D.persimilis    GGCAGAGC-------------------------------------GAGACAGCAGTGCG-
+D.pseudoobscura GGCAGAGC-------------------------------------GAGACAGCAGTGCG-
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    GACACAGC-----CACAGACACAAGCACAGACTCATGCAAGTCAGGGGACAGGCGTGCG-
+D.virilis       GACACACT-----------------CACACACAAATGCCTGGCAGGGGACAGGCGTGCG-
+D.grimshwi      TACACAGCAGACAGGCACACACACACACGTGCATGCATGGGACAGGGAACAGGCGTGCG-
+                                                                            
+
+D.melanogaster  ctctttttccattcataagcgactgcgttttgcgc-----------------tcgttgtt
+D.simulans      CTCTTTTTCCATTCATAAGCGACTGCGTTTTGCGC-----------------TCGTTGTT
+D.sechellia     CTCTTTTTCCATTCATAAGCGACTGCGTTTTGCGC-----------------TCGTTGTT
+D.yakuba        CCTCTTTTCCATTCATAAGCGACTGCGTTTGCGAC-----------------TCGTTGTT
+D.eracta        CTCTTTTTCCATTCATAAGCGACTGCGTTTTGCGC-----------------TCGTTGTT
+D.anannassae    CAGATCTTGAAGCCTCTGGAGAGGGCGCTTTTTGG-------------------------
+D.persimilis    CCTTCGTTCCATTCATAAGCGACGACGC--------------------------------
+D.pseudoobscura CCTTCGTTCCATTCATAAGCGACGACGC--------------------------------
+D.willistoni    -----GCCCCATTCATAAGCGATTGCGCTTTTTAG-----------------TCTGCAGT
+D.mojavensis    -----CCTTCATTCATAAGCG-GTG-------------------------------CGAC
+D.virilis       -----CCTTCATTCATAAGCG-TTGCGCTTTTTGCAGTCGACGACGACGACGTCGACGGC
+D.grimshwi      -----CCTTCATTCATAAGCG-TTGCGCTTTTTGC---------------------AGTC
+                                                                
+
+D.melanogaster  gttgctgttgtctctctgctggcgcttggcaaaaaata-----------tttttaaaaag
+D.simulans      GTTGCTGTTGTCTCTCTGCTGGCGCTTGGCAAAAAATA-----------TTTTAAAAAAG
+D.sechellia     GTTGCTTTTGTCTCTCTGCTGGCGCTTGGCAAAAAAT------------TTTTAAAAAAG
+D.yakuba        GTTGCTGTTGTCCCTCTGCTGGCGCTTGGCAAAAAATA-----------TTAAAAAAAAA
+D.eracta        G------TTGTCCCTCTGCTGGCGCTTGGCAAAAAATA-----------TTTTTAAAAAA
+D.anannassae    -----CGTTGCCACATTTCGAGGGCTCTGCAGAAAAGAGAGAATTTTTTTTGAGAGAAAA
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    GTGAATGT----------------------------------------------------
+D.mojavensis    GACGGCGCCGCCACTC---------ACTGCAAA---------------------------
+D.virilis       GGCGGCGCCGCCACT-----------CTGCAAA---------------------------
+D.grimshwi      GACGGCGGCGCCGCTC---------ACTGCAAA---------------------------
+                                                                            
+
+D.melanogaster  ttatttggcggcctccatctgtgaggaaatttgtttcgttttttttatgtatctttgaag
+D.simulans      TTATTTGGCGGCCTCCATCTGTGAGGAAATTTGTTTCG-TTATTTTATGTGTCTTTGAAG
+D.sechellia     TTATTTGGCGGCCTCCATCTGTGAGGAAATTTGTTTCG-TTATTTTATGTGTCTTTGAAG
+D.yakuba        TTATTTGACGGTCTCCATCTGTGAGGAAATTTGTTTTG-------------TGTTTGAAA
+D.eracta        TTATTTGGCCGCCTCCATCTGTGAAGAAGTTCGATTTG-TTATTTTATGTGTGTTTGAAG
+D.anannassae    AAATTTGAGAG---------ATGAAAATTTTTGTTTTT----------------------
+D.persimilis    ------------------------GACGACCGGCGGCG----------------------
+D.pseudoobscura ------------------------GACGACCGGCGGCG----------------------
+D.willistoni    ----------GTCTGTGTGTGTGTGTGATGCAGTCGCA----------------------
+D.mojavensis    --ATTTGGCGGCTTGCA--TGTGAAACATTTTCGCT-------TATTTGTGTGTCTGTAC
+D.virilis       --ATTTGGCGGCTTGCA--TGTGAACAATTTTCGTTATTTATGTGTGTATTTGTCTGTAC
+D.grimshwi      --ATTTGGCGGCTTGCA--TGTGAAAAATGTTGTTATTGTGTGTGTGTGTTTGTCTG---
+                                                                          
+
+D.melanogaster  tatttgatgct---ctttccttt-------------ttttcgtttgcagtattgtttct-
+D.simulans      TAGTTGATGCT---CTTTTCTTT----------TGTTTTGCGCTTGCAGTATTATTCCT-
+D.sechellia     TAGTTGATGCT---CTTTTCTTT----------TGTTTTGCGCTTGCAGTATTATTCCT-
+D.yakuba        TAGTTGATGCT---CTTTCTTTT-----TTATTTTTTTGTCCTTTGTAGCTATTT-----
+D.eracta        TAGTTTATGAT---CTTTTTCTTTTCCATTTTTTTTTTTGCGATTATAGTTATGTTTCCA
+D.anannassae    --------------TTTTTATTCAGCTTGAAATTTTATTTGGCTCTTAGAAAAAAGAGAA
+D.persimilis    -------------------------------CTTCGTTTTTGCCTGCTCAAAAATTTG--
+D.pseudoobscura -------------------------------CTTCGTTTTTGCCTGCTCAAAAATTTG--
+D.willistoni    -------------------------------GAGCCCTGGCGCTTGCAGAAAATTTGGC-
+D.mojavensis    TGTCACTCGTTTGGTTGTTGCTGC----TGCTTTTATTTTTATTTATTTATTTATTATT-
+D.virilis       TGGCGCTT------TTGTTGTTTC----TGTTTCTGTTTTTG---------TTATTGTT-
+D.grimshwi      --------------CCTGTGTGTG----AACTGTCGTTTTTGTTG------TTATTGTT-
+                                                                           
+
+D.melanogaster  ttcctt--agtgagattgcaaagt-taccgcccttatcacac-------atacagcctcc
+D.simulans      TTCCTT--AGTGAGACTGCAAAGT-TACCGCCCTTATCACACACACAGGACACAGCCTCC
+D.sechellia     TTCCTT--GGTGAGACTGCAAAGT-TACCGCCCTTATCACACACACAGGACACAGCCTCC
+D.yakuba        TTCCTT--GGTGAGACTGCAAAGT-TACCGCCCTTATAACAAACACA-GACTCAGCCTGC
+D.eracta        TTTCTT--GGTGAGACTGCAAAGT-TACCGCCCTTATCACAC-------ACACAGCCTCC
+D.anannassae    TTTTTTA-AGAGAGATGAAAATTTTTGTTTTTTCTATT-----------ATTCAGCTTGA
+D.persimilis    -----------GCGGCGGCGG----------------------------CTGCGGCTTCG
+D.pseudoobscura -----------GCGGCGGCGG----------------------------CTGCGGCCTCG
+D.willistoni    --------GGTGCGGCGTCGG----------------------------CGGCAGCGGCG
+D.mojavensis    TTTGTTGGTGCGCTGCTGTTGAAT-------------------------ACCTAGCTTCC
+D.virilis       TTTGTT--CGTGCTGCTGTTGCAT-------------------------GCGTAGCTTCC
+D.grimshwi      TTTGCT--CGTGCTGCTGTTGAAT-------------------------GCGTAGCTTCC
+                                                                    
+
+D.melanogaster  g-ggtttttcgcaccgtacgtttatacgtaagccatg----taaatcgtgatttattcat
+D.simulans      G-GGTTTTCCACACCGTACGTTTATACGTAAGCCATG----TAAATCGTGATTTATTCAT
+D.sechellia     G-GGTTTTCCACACCGTACG--TATACGTAAGCCATG----TAAATCGTGATTTATTCAT
+D.yakuba        G-GGTTTTCTACACCGTACGTTTATACGTAAGCCATG----TGAATTGTGATTTATTCAT
+D.eracta        G-CGTTTTCCACACCGTACGTTTATACTTAACCCATG----TAAATCGTGATTTATTCAT
+D.anannassae    A-GTTTTATTGGGCTCTT------------------------------------------
+D.persimilis    G-CTTCGTGTGCGT----------------------------------------------
+D.pseudoobscura G-CTTCGTGTGCGT----------------------------------------------
+D.willistoni    G-CTTTTTG---------------------------------------------------
+D.mojavensis    GCCCCTTATAGCAATACTCACACATACACACAGAAAATCATTAAATTCAGTTTTGTGCAC
+D.virilis       G-CCCTTATCACAACATTTACACGCA----------------------------------
+D.grimshwi      G-CCCTTATCATAACATTTACACACACACACA----------------------------
+                                                                        
+
+D.melanogaster  acccaaa-----------------------------------------------------
+D.simulans      ACCCAAA-----------------------------------------------------
+D.sechellia     ACCCAAA-----------------------------------------------------
+D.yakuba        GCCCAAA-----------------------------------------------------
+D.eracta        GCCCAAA-----------------------------------------------------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    ATGCGCATTCCCTCTGCTGCTCATTTTGTGAGAGGCCTCGCTCTCTTTCTCTCTCTCTCT
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  --------------------acaaacacaca-----------------------------
+D.simulans      --------------------ACAAACACAAT-----------------------------
+D.sechellia     --------------------ACAAACACAAT-----------------------------
+D.yakuba        --------------------ACGAACATAAATA-----------------------TGTA
+D.eracta        --------------------ACAAACATACA---------------------------TA
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    CTGTCTGTTTTGGCCGCCGCCTAAATGTGGTTGGGCTCGGATTTTTGTTGTCCTCCTGTT
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ------gcgcttataagtgaaatgcaattcacgaattcgtg-------------------
+D.simulans      ------ACGCTCATAAGTGAAATGCAATTCACGAACTCGTG-------------------
+D.sechellia     ------ACGCTCATAAGTGAAATGCAATTCACGAACTCGTG-------------------
+D.yakuba        TATCAAACGCTCATAAGTGCAATGCAATTCATGAACTCGTA-------------------
+D.eracta        TTTAAAACACTCATAAGTGCAATGCAATTCATGAACCCCCGTTT----------------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ----------------GTCGAGTGCAGTTGTTGTGTTGTTGC------------------
+D.pseudoobscura ----------------GTCGAGTGCAGTTGTTGTGTTGTTGC------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    GTCTACATGTTTTTATACGCATTGCGTTTTACATGTCTATCCTTACGAACGCAGACGCCG
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  -----------------------------------------------------------g
+D.simulans      -----------------------------------------------------------G
+D.sechellia     -----------------------------------------------------------G
+D.yakuba        -----------------------------------------------------------A
+D.eracta        ----------------------------------------------------------TT
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    ACGCTGACGTCGACCCGGCGTTTCTTGCTCTCGGGCATTCCGTCTGGTGCCTCGTCTGTG
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  tgtttttactataacattgtttgttcagctttcactggat--------------------
+D.simulans      TGTTTTTACCATAACATTGTTTATTCAGCTTTCACTGGAT--------------------
+D.sechellia     TGTTTTTACTATAACATTGTTTATTCAGCTTTCGCTGGAT--------------------
+D.yakuba        GGGTTTTGCTATAACATTGCTTATTCAGCTTTTACTGGAA--------------------
+D.eracta        TATTTCTGTTATAACACTGTTTATTCAACTTTTACTAGAT--------------------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    TGTTTTTATGCATGCGCCTTCTCGTTCGCACTTGCTGTATTTTGCTATTAGATTTTACTT
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  -----------------------------------------agcagtttagggt------
+D.simulans      -----------------------------------------AGCAGTTAAGGGA------
+D.sechellia     -----------------------------------------AGCAGTTAAGGGA------
+D.yakuba        -----------------------------------------AGCAGCTAAGGGA------
+D.eracta        -----------------------------------------AACAGTTAAGGGA------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    TGTTTTCATATACATTCGCCGTTTCACACATTACGCTTTGCATCATTTTCGGGGTCAACG
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ----------------------------------tatcacaaa-----------------
+D.simulans      ----------------------------------TACCACAAA-----------------
+D.sechellia     ----------------------------------TACCACGAA-----------------
+D.yakuba        ----------------------------------TACCA--AA-----------------
+D.eracta        ----------------------------------TACCATAAA-----------------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    TCATCTTGAGGGTTGCTCTTGCTGCTGCTTTTGTTGCCACCAACGCCGTCAATCGTTTTC
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ------------------------------------------------------------
+D.simulans      ------------------------------------------------------------
+D.sechellia     ------------------------------------------------------------
+D.yakuba        ------------------------------------------------------------
+D.eracta        ------------------------------------------------------------
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    GTAGTTGTTTGCGTTTGTTGTTGTTGGTTTTGTGCACGTCTCGTATTTTTGCAGTCCCTC
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  --aaaaaatg------------------------aatttttaatgtgttttagatgtaaa
+D.simulans      --AAAAAAAAG-----------------------AATTTTTAATGTGTTTTAGATGTAAA
+D.sechellia     --AAAAACGA------------------------ATTTTTTAATGTGTTTTAGATGTAAA
+D.yakuba        --AAAAATTG------------------------AATTTAAAATGTTTTTTAGATATAAA
+D.eracta        --AAAAAACA------------------------AATTTTTAATACGTTTTAGATATAAA
+D.anannassae    ----------------------------------AAACTCCCATACACTCTTAACTTAAA
+D.persimilis    ---------------------------------------------TCTTTTTCATTTTAC
+D.pseudoobscura ---------------------------------------------TCTTTTTCATTTTAC
+D.willistoni    ------------------------------------------------CTTGCATGTGAG
+D.mojavensis    GCAAATACTACGTTTATGTGGCAACCGTTATCATGATGTCATAT-CGCGTTGCATTCTAG
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  aataacaaaaagaa---attatctag----aaatttttacatttcat---ttacatac--
+D.simulans      AATAATAAAAAGAAATTATTACCTAG----AAATTTTAAAATTTCATATGTAATATGTAA
+D.sechellia     AATAATAAAAAGAAATGATTATCTAG----AAA--TTAAAATTTCAT---TAACATATGA
+D.yakuba        AATAATAAAGAGAT----------------------------------------------
+D.eracta        AATAATAGAAGGAAATTATTATTT-----------CTGTTATTATATAATTTACATAT--
+D.anannassae    CTTAATACGAGAAACTCATGTTTGAG----------------------------------
+D.persimilis    ACTAGACAAAATGT----------------------------------------------
+D.pseudoobscura ACTAGACAAAATGT----------------------------------------------
+D.willistoni    AATACAAATACAAT----------------------------------------------
+D.mojavensis    AATAAAACCATTGC---GTTTTTTGGTCTTGAATACCAATAGCTCAGGCGTCGCGTAAAC
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ----------gcacgc-------------catctgggaaatgcaatttataaat------
+D.simulans      ---------TGCACGCCAAAG-ATTAGTGCATCTGAGAAAGGCAATTTATTAATTAAATT
+D.sechellia     ----------GAACGCCAAAG-ATTAGTGCATCTGGGAAAGGCAATTTATTACTTAAATT
+D.yakuba        ------------------------------------------------------------
+D.eracta        ----------TTACGCCATTGTCTTACTACATCTGGG----GTAATTTAAAACTAATATT
+D.anannassae    ------------------------------------------------------------
+D.persimilis    ------------------------------------------------------------
+D.pseudoobscura ------------------------------------------------------------
+D.willistoni    ------------------------------------------------------------
+D.mojavensis    ACGAGGTGTGTCGTGTCACGT-TTTCATGCATTTTAT---CCTGACATATGAAAAAAATG
+D.virilis       ------------------------------------------------------------
+D.grimshwi      ------------------------------------------------------------
+                                                                            
+
+D.melanogaster  ----aataatcataataaaattattgacaaacagttaa--
+D.simulans      TATAAATAATAAAAATATTGTTATTGACGTTGAGTGAA--
+D.sechellia     TATAAATAATCAAAATGTTGTTTTTGACGATAAGTGAA--
+D.yakuba        ----TATAATAATAAAAAGAAAATTAACAAAACATGCA--
+D.eracta        TATAAATAATCA-GACAAAATTATTAGCAAAACAGGAA--
+D.anannassae    ---------------------AGTT---------------
+D.persimilis    ---------------------TGTTGG-------------
+D.pseudoobscura ---------------------TGTTGG-------------
+D.willistoni    ----------------------------------------
+D.mojavensis    CAGAAATAG----GAAAGTGTAATTAATAAATTATAATCG
+D.virilis       ----------------------------------------
+D.grimshwi      ----------------------------------------
+                                                        
+

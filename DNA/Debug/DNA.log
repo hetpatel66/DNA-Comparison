@@ -1,0 +1,5 @@
+﻿  DNA.cpp
+C:\Users\Het\DNA\DNA\DNA.cpp(49,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Het\DNA\DNA\DNA.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Het\DNA\DNA\DNA.cpp(88,22): warning C4018: '<': signed/unsigned mismatch
+  DNA.vcxproj -> C:\Users\Het\DNA\Debug\DNA.exe
